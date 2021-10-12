@@ -1,0 +1,5 @@
+Problem statement
+
+QuadPay is a payment gateway that lets consumers split purchases into 4 interest free installments, every two weeks. 
+The first 25% is taken when the order is received, and the remaining 3 installments of 25% are automatically taken every 14 days. 
+We help customers manage their cash-flow and we help merchants increase conversion rates and average order values.
